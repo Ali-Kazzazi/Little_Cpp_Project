@@ -1,0 +1,4 @@
+C:/Users/AliKazzazi/Desktop/TestQt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/AliKazzazi/Desktop/TestQt/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/AliKazzazi/Desktop/TestQt/cmake-build-debug/CMakeFiles/mymath.dir
+C:/Users/AliKazzazi/Desktop/TestQt/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -DCMAKE_PREFIX_PATH=C:\Qt\6.2.3\mingw_64\lib\cmake C:\Users\AliKazzazi\Desktop\TestQt
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/AliKazzazi/Desktop/TestQt/cmake-build-debug
